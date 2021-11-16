@@ -3,7 +3,7 @@ import java.util.*;
 
 public class P3{
 	public static void main(String args []){
-		//From the Fibonacci sequence the first and second
+	//From the Fibonacci sequence the first and second
         //number are always going to be 
         //0 and 1 so we code that
         int firstNum = 0;
